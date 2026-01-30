@@ -1,0 +1,15 @@
+langchain==1.2.7
+langchain-core==1.2.7
+langchain-community==0.4.1
+langchain-ollama==1.0.1
+langchain-openai==1.1.7
+langgraph==1.0.7
+openai==2.15.0
+ddgs==9.10.0
+fastapi==0.128.0
+uvicorn==0.40.0
+chainlit==2.9.6
+jupyter==1.1.1
+ipykernel==7.1.0
+langchain-mcp-adapters==0.2.1
+mcp==1.26.0
